@@ -211,7 +211,7 @@ export default function GeopoliticsSecurityTab() {
                     borderRadius: "8px",
                     fontSize: "12px",
                   }}
-                  formatter={(value: any, name: string) => [
+                  formatter={(value: any, name: any) => [
                     `${typeof value === 'number' ? value.toFixed(2) : value} Trillion`,
                     name,
                   ]}
