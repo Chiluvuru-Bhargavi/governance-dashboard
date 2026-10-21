@@ -1,0 +1,137 @@
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.1s
+ ○ Compiling / ...
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ⚠ Attempted to load @next/swc-linux-x64-gnu, but it was not installed
+ ⚠ Attempted to load @next/swc-linux-x64-musl, but an error occurred: libc.musl-x86_64.so.1: cannot open shared object file: No such file or directory
+ ⨯ Failed to load SWC binary for linux/x64, see more info here: https://nextjs.org/docs/messages/failed-loading-swc
+[?25h
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+   Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+ ✓ Ready in 12.9s
+ ○ Compiling / ...
+   Using external babel configuration from /home/karthik/Desktop/vibecode/governance-dashboard/.babelrc
+ ⚠ It looks like there is a custom Babel configuration that can be removed.
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+   Downloading swc package @next/swc-wasm-nodejs...
+ ✓ Ready in 6.9s
+ ○ Compiling / ...
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+[]
+[?25h
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.8s
+ ○ Compiling / ...
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 13.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 25.6s (1618 modules)
+ HEAD / 200 in 163ms
+ GET / 200 in 183ms
+ GET / 200 in 160ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1473ms (846 modules)
+ GET /favicon.ico 200 in 1671ms
+ ✓ Compiled in 1953ms (1618 modules)
+ ✓ Compiled in 1019ms (1618 modules)
+ ✓ Compiled in 744ms (1618 modules)
+ ✓ Compiled in 1977ms (1618 modules)
+ ✓ Compiled in 2.6s (1618 modules)
+ ✓ Compiled in 946ms (1622 modules)
+ ✓ Compiled in 1254ms (1622 modules)
+ ✓ Compiled in 857ms (1622 modules)
+ ✓ Compiled in 832ms (1614 modules)
+ GET / 200 in 886ms
+ ✓ Compiled in 4.9s (1608 modules)
+ ✓ Compiled in 974ms (1606 modules)
+ GET / 200 in 760ms
+ GET / 200 in 204ms
+[?25h
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 11.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 25.7s (1606 modules)
+ GET / 200 in 26899ms
+ ✓ Compiled in 867ms (797 modules)
+ ✓ Compiled in 503ms (797 modules)
+ ✓ Compiled in 834ms (800 modules)
+ ✓ Compiled in 572ms (800 modules)
+ ✓ Compiled in 1566ms (800 modules)
+ ✓ Compiled in 2.9s (805 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 1641ms (817 modules)
+ GET / 200 in 2930ms
+ GET / 200 in 60ms
+ GET / 200 in 165ms
+ ✓ Compiled in 5.6s (1622 modules)
+ ✓ Compiled in 1804ms (1622 modules)
+ ✓ Compiled in 4.5s (1622 modules)
+ ✓ Compiled in 2.1s (1622 modules)
+ GET / 200 in 1146ms
+ GET / 200 in 344ms
+[?25h
+  ▲ Next.js 14.2.24
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 11s
+ ○ Compiling / ...
+ ✓ Compiled / in 12.2s (1608 modules)
+ GET / 200 in 14227ms
+ ✓ Compiled in 8.6s (805 modules)
+ ✓ Compiled in 1140ms (805 modules)
+ ✓ Compiled in 1300ms (805 modules)
+ ✓ Compiled in 759ms (805 modules)
+ ✓ Compiled in 1274ms (802 modules)
+ ✓ Compiled in 1019ms (802 modules)
+ ✓ Compiled in 610ms (802 modules)
+ ✓ Compiled in 1648ms (788 modules)
+ ✓ Compiled in 2.1s (788 modules)
+ ✓ Compiled in 830ms (788 modules)
+ ✓ Compiled in 813ms (788 modules)
+ ✓ Compiled in 699ms (788 modules)
+ ✓ Compiled in 733ms (788 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 6.1s (1612 modules)
+ GET / 200 in 7180ms
+ GET / 200 in 107ms
+ GET / 200 in 121ms
+[?25h

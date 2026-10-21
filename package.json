@@ -1,0 +1,37 @@
+{
+  "name": "governance-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/runtime": "^7.24.8",
+    "@next/swc-wasm-nodejs": "^14.2.24",
+    "@reduxjs/toolkit": "^2.13.0",
+    "lightningcss-linux-x64-gnu": "^1.33.0",
+    "lucide-react": "^1.57.0",
+    "next": "^14.2.24",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-is": "^19.3.1",
+    "react-redux": "^9.3.0",
+    "recharts": "^3.10.1",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.19.43",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.28",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

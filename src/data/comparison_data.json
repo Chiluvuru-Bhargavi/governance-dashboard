@@ -1,0 +1,1036 @@
+{
+  "macroeconomics": {
+    "gdp_growth_annual": [
+      {
+        "year": 2004,
+        "value": 7.9,
+        "era": "UPA",
+        "source": "MoSPI Back-Series (2011-12 Base)"
+      },
+      {
+        "year": 2005,
+        "value": 7.9,
+        "era": "UPA",
+        "source": "MoSPI Back-Series (2011-12 Base)"
+      },
+      {
+        "year": 2006,
+        "value": 8.1,
+        "era": "UPA",
+        "source": "MoSPI Back-Series (2011-12 Base)"
+      },
+      {
+        "year": 2007,
+        "value": 7.7,
+        "era": "UPA",
+        "source": "MoSPI Back-Series (2011-12 Base)"
+      },
+      {
+        "year": 2008,
+        "value": 3.1,
+        "era": "UPA",
+        "source": "MoSPI Back-Series (2011-12 Base)"
+      },
+      {
+        "year": 2009,
+        "value": 7.9,
+        "era": "UPA",
+        "source": "MoSPI Back-Series (2011-12 Base)"
+      },
+      {
+        "year": 2010,
+        "value": 8.5,
+        "era": "UPA",
+        "source": "MoSPI Back-Series (2011-12 Base)"
+      },
+      {
+        "year": 2011,
+        "value": 5.2,
+        "era": "UPA",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2012,
+        "value": 5.5,
+        "era": "UPA",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2013,
+        "value": 6.4,
+        "era": "UPA",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2014,
+        "value": 7.4,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2015,
+        "value": 8.0,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2016,
+        "value": 8.3,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2017,
+        "value": 6.8,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2018,
+        "value": 6.5,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2019,
+        "value": 3.9,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2020,
+        "value": -5.8,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base, COVID-19 Year)"
+      },
+      {
+        "year": 2021,
+        "value": 9.7,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2022,
+        "value": 7.0,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      },
+      {
+        "year": 2023,
+        "value": 8.2,
+        "era": "BJP",
+        "source": "MoSPI NAS (2011-12 Base)"
+      }
+    ],
+    "inflation_average": {
+      "upa": "8.1% CPI-IW Decadal Average (10.1% Avg in FY09-FY14) | 6.2% WPI Avg",
+      "bjp": "5.0% CPI-Combined Decadal Average (4.5% Avg in FY15-FY19) | 3.8% WPI Avg",
+      "source": "RBI Database on Indian Economy (DBIE) & Ministry of Finance White Paper (Feb 2024)"
+    },
+    "infrastructure_pace": {
+      "highway_km_per_day": {
+        "upa": "12.1 km/day (FY 2013-14 Baseline; 91,287 km Total NH Network)",
+        "bjp": "28.0 to 36.5 km/day (Peak 36.5 km/day in FY21, 34.0 km/day in FY24; 1,46,145 km Total NH Network)",
+        "source": "Ministry of Road Transport and Highways (MoRTH) & Economic Survey"
+      },
+      "railway_electrification_rkm": {
+        "upa": "21,413 Route KM Cumulative up to March 2014 (~33% of Broad Gauge Network)",
+        "bjp": "69,873 Route KM Cumulative by 2025-26 (99.6% of Broad Gauge Network; >48,000 RKM added post-2014)",
+        "source": "Ministry of Railways & PIB Official Releases"
+      },
+      "power_and_aviation": {
+        "upa": "248.5 GW Installed Power (2.82 GW Solar) | 74 Operational Airports (2014)",
+        "bjp": "475.21 GW Installed Power in March 2025 (110.9 GW Solar in 2025; 150.26 GW in March 2026) | 157 Operational Airports in 2024 (165 in July 2026)",
+        "source": "Central Electricity Authority (CEA), MNRE & Ministry of Civil Aviation"
+      },
+      "banking_and_dpi": {
+        "upa": "SCB GNPA 3.8% Reported (11.2% Peak post-AQR recognition of 2006-13 stressed loans) | Pilot DBT in 43 Districts",
+        "bjp": "SCB GNPA 2.8% (March 2024, 12-Yr Low) | UPI 13,116 Cr Volume (Rs 200 Lakh Cr Value) in FY24; >24,162 Cr Volume in FY26",
+        "source": "RBI Financial Stability Report (June 2024) & NPCI"
+      }
+    }
+  },
+  "internal_security": {
+    "lwe_incidents": [
+      {
+        "period": "2004-2014 (UPA Decade)",
+        "era": "UPA",
+        "incidents": 17679,
+        "deaths": 6984,
+        "affected_districts_end_of_period": 126,
+        "peak_year_note": "Peak in 2010 with 2,213 incidents and 1,005 deaths (including 75 CRPF personnel in Dantewada)",
+        "source": "Ministry of Home Affairs (MHA) Annual Reports & PIB Statements"
+      },
+      {
+        "period": "2014-2023 (NDA Decade Audit)",
+        "era": "BJP",
+        "incidents": 7649,
+        "deaths": 2020,
+        "affected_districts_end_of_period": 38,
+        "peak_year_note": "52% drop in incidents and 69% drop in deaths over comparative 10-yr window; deaths fell 90% from 1,005 (2010) to 98 (2022); affected districts reduced further to 11 in 2025-26",
+        "source": "Ministry of Home Affairs (MHA) Annual Reports & PIB (2024-2026)"
+      }
+    ],
+    "jk_fatalities": [
+      {
+        "period": "2004-2014 (UPA Tenure)",
+        "era": "UPA",
+        "terror_incidents": 7217,
+        "civilian_and_sf_fatalities": 2829,
+        "northeast_insurgency_note": "AFSPA in force across whole of Assam, Nagaland, Manipur (ex-Imphal), Tripura, and Meghalaya border areas",
+        "source": "MHA Annual Reports (2004-05 to 2013-14)"
+      },
+      {
+        "period": "2014-2024 (NDA Tenure)",
+        "era": "BJP",
+        "terror_incidents": 2197,
+        "civilian_and_sf_fatalities": 891,
+        "northeast_insurgency_note": "71% drop in NE insurgency incidents; >9,000 cadres surrendered under Bodo (4,881), Karbi (1,926), Adivasi (1,182), and ULFA (852) Accords; AFSPA completely revoked in Tripura (2015) and Meghalaya (2018), and reduced to 3 districts in Assam",
+        "source": "MHA Annual Reports & MHA NE Peace Process Dossier (April 2026)"
+      }
+    ],
+    "urban_terror_events": [
+      {
+        "year": 2005,
+        "era": "UPA",
+        "city": "New Delhi (Sarojini Nagar & Paharganj)",
+        "fatalities": 62,
+        "injured": 210,
+        "module": "LeT",
+        "source": "MHA Annual Report 2005-06"
+      },
+      {
+        "year": 2006,
+        "era": "UPA",
+        "city": "Varanasi (Sankat Mochan Temple & Cantt)",
+        "fatalities": 28,
+        "injured": 101,
+        "module": "HuJI",
+        "source": "MHA Annual Report 2006-07"
+      },
+      {
+        "year": 2006,
+        "era": "UPA",
+        "city": "Mumbai (7/11 Suburban Train Serial Bombings)",
+        "fatalities": 209,
+        "injured": 714,
+        "module": "LeT / SIMI",
+        "source": "MHA Annual Report 2006-07"
+      },
+      {
+        "year": 2006,
+        "era": "UPA",
+        "city": "Malegaon, Maharashtra",
+        "fatalities": 37,
+        "injured": 125,
+        "module": "ATS / NIA Dossier",
+        "source": "MHA Annual Report 2006-07"
+      },
+      {
+        "year": 2007,
+        "era": "UPA",
+        "city": "Hyderabad (Mecca Masjid, Lumbini Park, Gokul Chat)",
+        "fatalities": 51,
+        "injured": 100,
+        "module": "HuJI / IM",
+        "source": "MHA Annual Report 2007-08"
+      },
+      {
+        "year": 2008,
+        "era": "UPA",
+        "city": "Jaipur, Bengaluru, Ahmedabad & New Delhi Serial Blasts",
+        "fatalities": 159,
+        "injured": 535,
+        "module": "Indian Mujahideen (IM)",
+        "source": "MHA Annual Report 2008-09"
+      },
+      {
+        "year": 2008,
+        "era": "UPA",
+        "city": "Mumbai (26/11 Coordinated Maritime Terror Siege)",
+        "fatalities": 166,
+        "injured": 300,
+        "module": "Lashkar-e-Taiba (LeT)",
+        "source": "MHA Annual Report 2008-09 & NIA"
+      },
+      {
+        "year": 2010,
+        "era": "UPA",
+        "city": "Pune (German Bakery Blast)",
+        "fatalities": 18,
+        "injured": 60,
+        "module": "Indian Mujahideen",
+        "source": "MHA Annual Report 2010-11"
+      },
+      {
+        "year": 2011,
+        "era": "UPA",
+        "city": "Mumbai (Triple Blasts) & Delhi High Court Blast",
+        "fatalities": 41,
+        "injured": 209,
+        "module": "IM & HuJI",
+        "source": "MHA Annual Report 2011-12"
+      },
+      {
+        "year": 2013,
+        "era": "UPA",
+        "city": "Hyderabad (Dilsukhnagar) & Patna (Gandhi Maidan)",
+        "fatalities": 24,
+        "injured": 216,
+        "module": "Indian Mujahideen",
+        "source": "MHA Annual Report 2013-14 & NIA"
+      },
+      {
+        "year": 2014,
+        "era": "BJP",
+        "city": "Bengaluru (Church Street Pipe IED)",
+        "fatalities": 1,
+        "injured": 3,
+        "module": "SIMI Module",
+        "source": "NIA Case Record 2014"
+      },
+      {
+        "year": 2022,
+        "era": "BJP",
+        "city": "Coimbatore & Mangaluru (Isolated Low-Intensity Blasts)",
+        "fatalities": 0,
+        "injured": 1,
+        "module": "IS-Inspired Lone Modules (Perpetrators Neutralized/Arrested)",
+        "source": "NIA Annual Dossier 2022"
+      },
+      {
+        "year": 2024,
+        "era": "BJP",
+        "city": "Bengaluru (Rameshwaram Cafe Timer IED)",
+        "fatalities": 0,
+        "injured": 10,
+        "module": "IS-Al Hind Module (2 Perpetrators Arrested by NIA)",
+        "source": "NIA Press Release 2024"
+      }
+    ]
+  },
+  "defense_intelligence": {
+    "defense_capex_trend": [
+      {
+        "fiscal_year": "2013-14",
+        "era": "UPA",
+        "total_mod_budget_cr": 229000,
+        "capital_outlay_cr": 79125,
+        "indigenous_production_cr": 43746,
+        "defence_exports_cr": 686,
+        "bro_budget_cr": 2000,
+        "source": "MoD Annual Report & DDP"
+      },
+      {
+        "fiscal_year": "2014-15",
+        "era": "BJP",
+        "total_mod_budget_cr": 253346,
+        "capital_outlay_cr": 81965,
+        "indigenous_production_cr": 46429,
+        "defence_exports_cr": 1941,
+        "bro_budget_cr": 2100,
+        "source": "MoD / PIB Official Baseline"
+      },
+      {
+        "fiscal_year": "2020-21",
+        "era": "BJP",
+        "total_mod_budget_cr": 471378,
+        "capital_outlay_cr": 134305,
+        "indigenous_production_cr": 84643,
+        "defence_exports_cr": 8434,
+        "bro_budget_cr": 5800,
+        "source": "MoD / DDP / PIB"
+      },
+      {
+        "fiscal_year": "2022-23",
+        "era": "BJP",
+        "total_mod_budget_cr": 525166,
+        "capital_outlay_cr": 152369,
+        "indigenous_production_cr": 108684,
+        "defence_exports_cr": 16000,
+        "bro_budget_cr": 12340,
+        "source": "MoD Year End Review 2023 (PIB)"
+      },
+      {
+        "fiscal_year": "2023-24",
+        "era": "BJP",
+        "total_mod_budget_cr": 593537,
+        "capital_outlay_cr": 162600,
+        "indigenous_production_cr": 127434,
+        "defence_exports_cr": 21083,
+        "bro_budget_cr": 13500,
+        "source": "MoD / DDP PIB Releases"
+      },
+      {
+        "fiscal_year": "2024-25",
+        "era": "BJP",
+        "total_mod_budget_cr": 621941,
+        "capital_outlay_cr": 172000,
+        "indigenous_production_cr": 154071,
+        "defence_exports_cr": 23622,
+        "bro_budget_cr": 16690,
+        "source": "MoD / DDP PIB (Nov 2025)"
+      },
+      {
+        "fiscal_year": "2025-26",
+        "era": "BJP",
+        "total_mod_budget_cr": 681210,
+        "capital_outlay_cr": 180000,
+        "indigenous_production_cr": 178000,
+        "defence_exports_cr": 38424,
+        "bro_budget_cr": 16000,
+        "source": "MoD / DDP PIB (June 2026)"
+      }
+    ],
+    "key_procurements": [
+      {
+        "era": "UPA",
+        "platform": "Project-75 Scorpene Submarines (6 Units)",
+        "year": 2005,
+        "type": "ToT / MDL Mumbai",
+        "status": "Contract signed Oct 2005; 0 units commissioned during UPA due to 5-year delay; all 6 commissioned 2017-2025 under NDA",
+        "source": "MoD Annual Reports"
+      },
+      {
+        "era": "UPA",
+        "platform": "Boeing P-8I Neptune LRMR (8+4) & C-17 Globemaster III (10)",
+        "year": 2009,
+        "type": "US FMS / Direct Commercial",
+        "status": "Inducted into Indian Navy and IAF for strategic airlift and maritime domain awareness",
+        "source": "MoD Annual Reports 2009-2013"
+      },
+      {
+        "era": "UPA",
+        "platform": "INS Vikramaditya Aircraft Carrier & 45 MiG-29K Fighters",
+        "year": 2013,
+        "type": "Russia G2G Refit",
+        "status": "Inducted Nov 2013 after cost revision from $974M (2004) to $2.35B",
+        "source": "Standing Committee on Defence Reports"
+      },
+      {
+        "era": "BJP",
+        "platform": "36 Dassault Rafale Fighters + 26 Rafale-Marine Approval",
+        "year": 2016,
+        "type": "India-France IGA",
+        "status": "Resolved decade-long MMRCA deadlock; all 36 IAF jets inducted 2019-2022; 26 Navy jets approved by DAC in 2023",
+        "source": "MoD / PIB"
+      },
+      {
+        "era": "BJP",
+        "platform": "S-400 Triumf Long-Range Air Defence System (5 Squadrons)",
+        "year": 2018,
+        "type": "India-Russia IGA",
+        "status": "Contract signed Oct 2018; 3 squadrons operational along Northern/Western borders",
+        "source": "MoD / PIB (June 2026)"
+      },
+      {
+        "era": "BJP",
+        "platform": "Indigenous INS Vikrant Aircraft Carrier, INS Arihant & INS Arighaat SSBNs",
+        "year": 2022,
+        "type": "Indigenous Shipbuilding",
+        "status": "INS Vikrant commissioned Sep 2022; INS Arihant (2016) & INS Arighaat (2024) operationalized nuclear triad",
+        "source": "MoD Annual Reports"
+      },
+      {
+        "era": "BJP",
+        "platform": "83 + 97 LCA Tejas Mk-1A Fighters, 156 LCH Prachand & 56 C-295 Transport",
+        "year": 2021,
+        "type": "Aatmanirbhar Bharat Indigenous",
+        "status": "75% of modernisation budget (Rs 1.11 Lakh Cr in FY26) earmarked for domestic procurement; 193 contracts worth Rs 2.09 Lakh Cr signed in FY25",
+        "source": "DDP / MoD PIB (2025-2026)"
+      }
+    ],
+    "intel_agencies_reforms": [
+      {
+        "era": "UPA",
+        "agency": "National Investigation Agency (NIA)",
+        "year": 2008,
+        "reform": "Enacted NIA Act, 2008 post-26/11 Mumbai attacks to create a federal counter-terror investigation agency",
+        "source": "NIA Act No. 34 of 2008"
+      },
+      {
+        "era": "UPA",
+        "agency": "Multi-Agency Centre (MAC) & NATGRID",
+        "year": 2009,
+        "reform": "Issued Dec 2008 executive mandate for MAC intelligence sharing and conceptualized NATGRID with Rs 3,400 Cr outlay",
+        "source": "MHA Annual Report 2008-09"
+      },
+      {
+        "era": "BJP",
+        "agency": "NIA & UAPA Statutory Expansion",
+        "year": 2019,
+        "reform": "Enacted NIA (Amendment) Act 2019 & UAPA (Amendment) Act 2019 enabling individual terrorist designation, extraterritorial probes, and >94% trial conviction rate",
+        "source": "MHA / PIB (PRID 2275007)"
+      },
+      {
+        "era": "BJP",
+        "agency": "24/7 Modernized MAC, CyMAC & Operational NATGRID",
+        "year": 2025,
+        "reform": "Operationalized NATGRID linked with CCTNS (14,000+ police stations) in 2020; inaugurated AI/ML-enabled New MAC & Cyber-MAC at North Block in May 2025",
+        "source": "MHA / PIB (May 2025 & June 2026)"
+      }
+    ]
+  },
+  "womens_safety": {
+    "ncrb_crime_metrics": [
+      {
+        "year": 2004,
+        "era": "UPA",
+        "total_crimes_against_women": 154333,
+        "crime_rate_per_100k": 28.5,
+        "sec376_ipc": 18233,
+        "dowry_deaths_sec304b": 7026,
+        "cruelty_sec498a": 58121,
+        "conviction_rate_pct": 27.8,
+        "mmr_per_100k_live_births": 254,
+        "source": "NCRB Crime in India 2004 & RGI SRS (2004-06)"
+      },
+      {
+        "year": 2009,
+        "era": "UPA",
+        "total_crimes_against_women": 203804,
+        "crime_rate_per_100k": 34.9,
+        "sec376_ipc": 21397,
+        "dowry_deaths_sec304b": 8383,
+        "cruelty_sec498a": 89546,
+        "conviction_rate_pct": 26.9,
+        "mmr_per_100k_live_births": 212,
+        "source": "NCRB Crime in India 2009 & RGI SRS (2007-09)"
+      },
+      {
+        "year": 2014,
+        "era": "UPA",
+        "total_crimes_against_women": 337922,
+        "crime_rate_per_100k": 56.3,
+        "sec376_ipc": 36735,
+        "dowry_deaths_sec304b": 8455,
+        "cruelty_sec498a": 122877,
+        "conviction_rate_pct": 21.3,
+        "mmr_per_100k_live_births": 167,
+        "source": "NCRB Crime in India 2014 & RGI SRS (2011-13)"
+      },
+      {
+        "year": 2019,
+        "era": "BJP",
+        "total_crimes_against_women": 405326,
+        "crime_rate_per_100k": 62.3,
+        "sec376_ipc": 32033,
+        "dowry_deaths_sec304b": 7141,
+        "cruelty_sec498a": 125298,
+        "conviction_rate_pct": 23.7,
+        "mmr_per_100k_live_births": 113,
+        "source": "NCRB Crime in India 2019 & RGI SRS (2016-18)"
+      },
+      {
+        "year": 2022,
+        "era": "BJP",
+        "total_crimes_against_women": 445256,
+        "crime_rate_per_100k": 66.4,
+        "sec376_ipc": 31516,
+        "dowry_deaths_sec304b": 6450,
+        "cruelty_sec498a": 140019,
+        "conviction_rate_pct": 25.3,
+        "mmr_per_100k_live_births": 97,
+        "source": "NCRB Crime in India 2022 & RGI SRS (2018-20)"
+      },
+      {
+        "year": 2023,
+        "era": "BJP",
+        "total_crimes_against_women": 448211,
+        "crime_rate_per_100k": 66.2,
+        "sec376_ipc": 29670,
+        "dowry_deaths_sec304b": 6156,
+        "cruelty_sec498a": 133676,
+        "conviction_rate_pct": 25.5,
+        "mmr_per_100k_live_births": 93,
+        "source": "NCRB Crime in India 2023 & RGI SRS (2019-21)"
+      }
+    ],
+    "statutory_enactments": [
+      {
+        "era": "UPA",
+        "year": 2005,
+        "act_name": "Protection of Women from Domestic Violence Act (PWDVA), 2005 & Hindu Succession (Amendment) Act, 2005",
+        "impact": "Created civil protection/residence orders for domestic abuse and granted daughters equal coparcenary rights in ancestral property",
+        "source": "Acts No. 39 & 43 of 2005"
+      },
+      {
+        "era": "UPA",
+        "year": 2012,
+        "act_name": "Protection of Children from Sexual Offences (POCSO) Act, 2012",
+        "impact": "Established gender-neutral statutory framework and special courts for child protection",
+        "source": "Act No. 32 of 2012"
+      },
+      {
+        "era": "UPA",
+        "year": 2013,
+        "act_name": "Criminal Law (Amendment) Act, 2013 (Nirbhaya Act) & Workplace POSH Act, 2013",
+        "impact": "Expanded statutory offense definitions, penalized police non-registration of FIRs (Sec 166A IPC), and mandated workplace Internal Complaints Committees",
+        "source": "Acts No. 13 & 14 of 2013"
+      },
+      {
+        "era": "BJP",
+        "year": 2017,
+        "act_name": "Maternity Benefit (Amendment) Act, 2017",
+        "impact": "Doubled paid formal-sector maternity leave from 12 weeks to 26 weeks and mandated workplace creches",
+        "source": "Act No. 6 of 2017"
+      },
+      {
+        "era": "BJP",
+        "year": 2018,
+        "act_name": "Criminal Law (Amendment) Act, 2018 & Fast Track Special Courts (FTSC) Scheme (2019)",
+        "impact": "Mandated capital punishment for aggravated offenses against girls under 12 and operationalized 774 FTSCs (413 exclusive POCSO courts) disposing >2.5 lakh cases",
+        "source": "Act No. 22 of 2018 & DoJ PIB (PRID 2227723)"
+      },
+      {
+        "era": "BJP",
+        "year": 2019,
+        "act_name": "Muslim Women (Protection of Rights on Marriage) Act, 2019",
+        "impact": "Outlawed and criminalized instant Triple Talaq, reducing incidence by over 80%",
+        "source": "Act No. 20 of 2019"
+      },
+      {
+        "era": "BJP",
+        "year": 2023,
+        "act_name": "Nari Shakti Vandan Adhiniyam [Constitution (106th Amendment) Act, 2023]",
+        "impact": "Enacted 33% reservation for women in Lok Sabha and State Legislative Assemblies after 27 years of legislative deadlock",
+        "source": "Gazette of India, Sep 28, 2023"
+      }
+    ]
+  },
+  "manifesto_tracker": [
+    {
+      "era": "UPA",
+      "promise": "Legal Guarantee of 100 Days Rural Wage Employment (MGNREGA)",
+      "category": "Social",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted National Rural Employment Guarantee Act in Aug 2005 guaranteeing 100 days of unskilled wage employment per rural household; scaled nationwide by April 2008.",
+      "gazette_or_record_ref": "Act No. 42 of 2005 (Gazette Notification Sep 7, 2005)"
+    },
+    {
+      "era": "UPA",
+      "promise": "Enactment of Statutory Right to Information (RTI)",
+      "category": "Governance",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted Right to Information Act, 2005 establishing Central and State Information Commissions with 30-day statutory public disclosure timelines.",
+      "gazette_or_record_ref": "Act No. 22 of 2005 (Effective Oct 12, 2005)"
+    },
+    {
+      "era": "UPA",
+      "promise": "Recognition of Tribal and Forest Dweller Tenure Rights",
+      "category": "Social",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 vesting individual and community forest land titles.",
+      "gazette_or_record_ref": "Act No. 2 of 2007 (Gazette Notification Dec 29, 2006)"
+    },
+    {
+      "era": "UPA",
+      "promise": "Universal Free and Compulsory Elementary Education (RTE)",
+      "category": "Social",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted Right of Children to Free and Compulsory Education Act, 2009 operationalizing Article 21A for children aged 6-14 years with 25% EWS private school quota.",
+      "gazette_or_record_ref": "Act No. 35 of 2009 (Effective Apr 1, 2010)"
+    },
+    {
+      "era": "UPA",
+      "promise": "Indo-US Civil Nuclear Agreement & NSG Waiver",
+      "category": "Defense",
+      "status": "Fulfilled",
+      "official_outcome": "Concluded bilateral 123 Agreement with the US and secured the Sep 2008 NSG clean waiver, ending 34 years of nuclear isolation.",
+      "gazette_or_record_ref": "India-US 123 Agreement (Signed Oct 10, 2008); IAEA INFCIRC/754"
+    },
+    {
+      "era": "UPA",
+      "promise": "National Food Security Act (Right to Subsidized Foodgrains)",
+      "category": "Social",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted NFSA 2013 covering 75% rural and 50% urban population with 5 kg foodgrains per person per month at subsidized prices.",
+      "gazette_or_record_ref": "Act No. 20 of 2013 (Gazette Notification Sep 10, 2013)"
+    },
+    {
+      "era": "UPA",
+      "promise": "Aadhaar Unique ID & Direct Benefit Transfer (DBT) Rollout",
+      "category": "Governance",
+      "status": "Partially Met",
+      "official_outcome": "Created UIDAI via executive order in Jan 2009 and launched pilot DBT in 43 districts in Jan 2013; however, statutory Aadhaar bill failed to pass and >40% poor lacked bank accounts in 2014.",
+      "gazette_or_record_ref": "Planning Commission Notification Jan 28, 2009"
+    },
+    {
+      "era": "UPA",
+      "promise": "Independent Anti-Corruption Lokpal Ombudsman Operationalization",
+      "category": "Governance",
+      "status": "Partially Met",
+      "official_outcome": "Enacted the Lokpal and Lokayuktas Act in Dec 2013, but zero Chairperson or Members were appointed before UPA left office in May 2014.",
+      "gazette_or_record_ref": "Act No. 1 of 2014 (Notified Jan 1, 2014; Operationalized Mar 2019)"
+    },
+    {
+      "era": "UPA",
+      "promise": "Nationwide Goods and Services Tax (GST) Rollout by April 2010",
+      "category": "Economy",
+      "status": "Unfulfilled",
+      "official_outcome": "Promised in 2009 INC Manifesto; Constitution (115th Amendment) Bill, 2011 remained stalled over state compensation and lapsed with the 15th Lok Sabha in 2014.",
+      "gazette_or_record_ref": "Bill No. 22 of 2011 (Lapsed May 2014)"
+    },
+    {
+      "era": "UPA",
+      "promise": "33% Reservation for Women in Lok Sabha and State Assemblies",
+      "category": "Governance",
+      "status": "Unfulfilled",
+      "official_outcome": "Constitution (108th Amendment) Bill passed Rajya Sabha in March 2010 but was never brought to a vote in Lok Sabha by UPA-II and lapsed in 2014.",
+      "gazette_or_record_ref": "Rajya Sabha Debate Record, Mar 9, 2010 (Lapsed May 2014)"
+    },
+    {
+      "era": "UPA",
+      "promise": "Elimination of Union Revenue Deficit by FY 2008-09 (FRBM Mandate)",
+      "category": "Economy",
+      "status": "Unfulfilled",
+      "official_outcome": "Revenue deficit surged to 4.5% of GDP in FY09 and 5.2% in FY10, remaining at 3.2% in FY14 alongside unbudgeted oil/fertilizer bonds.",
+      "gazette_or_record_ref": "Ministry of Finance White Paper on the Indian Economy (Feb 2024)"
+    },
+    {
+      "era": "BJP",
+      "promise": "Abrogation of Article 370 & Full Constitutional Integration of J&K",
+      "category": "Governance",
+      "status": "Fulfilled",
+      "official_outcome": "Issued Constitutional Orders C.O. 272 and 273 and enacted J&K Reorganisation Act, 2019 ending special status and applying all Union laws to J&K and Ladakh.",
+      "gazette_or_record_ref": "C.O. 272 & 273; Act No. 34 of 2019 (Gazette Notification Aug 9, 2019)"
+    },
+    {
+      "era": "BJP",
+      "promise": "Implementation of Nationwide Goods and Services Tax (GST)",
+      "category": "Economy",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted Constitution (101st Amendment) Act, 2016 and CGST/IGST Acts, launching GST nationwide on July 1, 2017.",
+      "gazette_or_record_ref": "Constitution (101st Amendment) Act, Sep 8, 2016; Acts No. 12-15 of 2017"
+    },
+    {
+      "era": "BJP",
+      "promise": "Facilitation of Grand Ram Mandir Construction at Ayodhya",
+      "category": "Social",
+      "status": "Fulfilled",
+      "official_outcome": "Following unanimous Supreme Court verdict (Nov 9, 2019), established Shri Ram Janmabhoomi Teerth Kshetra Trust in Feb 2020; temple consecrated Jan 22, 2024.",
+      "gazette_or_record_ref": "MHA Gazette Notification S.O. 562(E), Feb 5, 2020"
+    },
+    {
+      "era": "BJP",
+      "promise": "Enactment of Citizenship Amendment Act (CAA) for Persecuted Minorities",
+      "category": "Governance",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted Citizenship (Amendment) Act, 2019 and notified operational CAA Rules in March 2024 granting citizenship certificates to persecuted minorities.",
+      "gazette_or_record_ref": "Act No. 47 of 2019; MHA Rules G.S.R. 172(E), Mar 11, 2024"
+    },
+    {
+      "era": "BJP",
+      "promise": "Insolvency and Bankruptcy Code (IBC) & Banking NPA Resolution",
+      "category": "Economy",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted IBC 2016 establishing time-bound creditor-in-control resolution; SCB GNPA ratio reduced to a 12-year low of 2.8% by March 2024.",
+      "gazette_or_record_ref": "Act No. 31 of 2016 (May 28, 2016); RBI FSR June 2024"
+    },
+    {
+      "era": "BJP",
+      "promise": "Abolition of Instant Triple Talaq & 33% Women's Reservation in Legislatures",
+      "category": "Social",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted Muslim Women (Protection of Rights on Marriage) Act, 2019 and Constitution (106th Amendment) Act, 2023 [Nari Shakti Vandan Adhiniyam].",
+      "gazette_or_record_ref": "Act No. 20 of 2019 (Jul 31, 2019) & 106th Amendment (Sep 28, 2023)"
+    },
+    {
+      "era": "BJP",
+      "promise": "Overhaul of Colonial Criminal Laws (IPC, CrPC, Evidence Act)",
+      "category": "Governance",
+      "status": "Fulfilled",
+      "official_outcome": "Enacted Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA), effective July 1, 2024.",
+      "gazette_or_record_ref": "Acts No. 45, 46 & 47 of 2023 (Gazette Notification Dec 25, 2023)"
+    },
+    {
+      "era": "BJP",
+      "promise": "Implementation of One Rank One Pension (OROP) & Chief of Defence Staff (CDS)",
+      "category": "Defense",
+      "status": "Fulfilled",
+      "official_outcome": "Implemented OROP in Nov 2015 (effective Jul 1, 2014) disbursing >Rs 1 Lakh Cr in arrears, and created CDS & Dept of Military Affairs in Dec 2019.",
+      "gazette_or_record_ref": "MoD Order Nov 7, 2015 & Cabinet Notification Dec 24, 2019"
+    },
+    {
+      "era": "BJP",
+      "promise": "Creation of 100 Operational Smart Cities",
+      "category": "Economy",
+      "status": "Substantially Implemented",
+      "official_outcome": "Operationalized Integrated Command and Control Centres (ICCCs) in all 100 cities and completed >90% of ~8,000 projects worth Rs 1.44+ lakh crore under extended March 2025 timeline.",
+      "gazette_or_record_ref": "MoHUA Smart Cities Mission Dashboard & Parliamentary Replies (2024-25)"
+    },
+    {
+      "era": "BJP",
+      "promise": "Doubling Farmers' Real Income by 2022",
+      "category": "Economy",
+      "status": "Partially Met",
+      "official_outcome": "Launched PM-KISAN (>Rs 3.2 Lakh Cr transferred), raised MSPs to 1.5x cost (A2+FL), and expanded horticulture (362 MMT) and fisheries (195 LMT); nominal incomes rose significantly though real inflation-adjusted doubling by 2022 was only partially achieved.",
+      "gazette_or_record_ref": "NSO 77th Round SAS & Ministry of Agriculture PIB Records (2025)"
+    },
+    {
+      "era": "BJP",
+      "promise": "Ahmedabad-Mumbai High-Speed Rail (Bullet Train) Completion by 2022",
+      "category": "Economy",
+      "status": "Partially Met",
+      "official_outcome": "100% land acquisition, 300+ km viaduct construction, and undersea tunnel breakthrough completed after 2019-2022 Maharashtra land delays; trial run targeted for 2026 and full commissioning by 2028.",
+      "gazette_or_record_ref": "Ministry of Railways / NHSRCL Progress Reports (2024-2025)"
+    },
+    {
+      "era": "BJP",
+      "promise": "Raising Manufacturing Share to 25% of GDP",
+      "category": "Economy",
+      "status": "Partially Met",
+      "official_outcome": "Launched Make in India and Rs 1.97 Lakh Cr PLI schemes across 14 sectors, boosting electronics, pharma, biotech ($130B), and defence production (Rs 1.78 Lakh Cr); however, aggregate manufacturing GVA share remains near 16%-17.3% of GDP.",
+      "gazette_or_record_ref": "MoSPI National Accounts Statistics & Economic Survey 2024-25"
+    }
+  ],
+  "geopoliticsAndSecurity": {
+    "meta": {
+      "tabTitle": "Geopolitics & Security: India vs. China (2014–2025)",
+      "subtitle": "Comparative Assessment of Macroeconomic Scale, Defense Posture, Strategic Deterrence, and Clandestine Statecraft",
+      "lastUpdated": "2025-2026 Horizon",
+      "themeTokens": {
+        "india": {
+          "columnPosition": "left",
+          "primaryAccent": "#1E3A8A",
+          "secondaryAccent": "#D97706",
+          "softBg": "#EFF6FF",
+          "borderAccent": "#BFDBFE",
+          "label": "Republic of India"
+        },
+        "china": {
+          "columnPosition": "right",
+          "primaryAccent": "#991B1B",
+          "secondaryAccent": "#DC2626",
+          "softBg": "#FEF2F2",
+          "borderAccent": "#FECACA",
+          "label": "People's Republic of China"
+        }
+      }
+    },
+    "economicTrajectory": {
+      "sectionTitle": "1. Economic Trajectory (2014 vs. 2024/25 Projected)",
+      "sourceCitation": "SOURCE: IMF WORLD ECONOMIC OUTLOOK & WORLD BANK (2014–2025/26)",
+      "summaryKPIs": {
+        "india": {
+          "gdp2014": "$2.03T",
+          "gdp2025Projected": "$4.10T",
+          "exact2014Billions": 2039.13,
+          "exact2025WBTrillions": 3.96,
+          "exact2026IMFTrillions": 4.15,
+          "decadeGrowthPercent": "+105%",
+          "globalRankChange": "#10 (2014) → #4 (2025)",
+          "realGrowth2025": "7.57%",
+          "gdpPerCapita2025": "$2,702",
+          "pppGdp2025": "Int. $17.20T"
+        },
+        "china": {
+          "gdp2014": "$10.60T",
+          "gdp2025Projected": "$20.80T",
+          "exact2014Billions": 10674.53,
+          "exact2025WBTrillions": 19.50,
+          "exact2026IMFTrillions": 20.85,
+          "decadeGrowthPercent": "+95%",
+          "globalRankChange": "#2 (2014) → #2 (2025)",
+          "realGrowth2025": "4.96%",
+          "gdpPerCapita2025": "$13,862",
+          "pppGdp2025": "Int. $41.26T"
+        },
+        "comparativeInsight": "India's nominal GDP more than doubled from ~$2.03T (2014) to ~$4.1T (2025/26 projected), overtaking Japan as the 4th largest economy. China expanded from ~$10.6T to ~$20.8T, maintaining a ~5.0x nominal scale lead (and a 2.34x ratio in PPP terms)."
+      },
+      "timeSeries": [
+        { "year": "2014", "indiaGDP": 2.04, "chinaGDP": 10.67, "indiaGrowth": 7.41, "chinaGrowth": 7.46, "indiaPPP": 6.62, "chinaPPP": 17.75 },
+        { "year": "2015", "indiaGDP": 2.10, "chinaGDP": 11.28, "indiaGrowth": 8.00, "chinaGrowth": 6.98, "indiaPPP": 7.00, "chinaPPP": 18.58 },
+        { "year": "2016", "indiaGDP": 2.29, "chinaGDP": 11.46, "indiaGrowth": 8.26, "chinaGrowth": 6.77, "indiaPPP": 7.57, "chinaPPP": 19.65 },
+        { "year": "2017", "indiaGDP": 2.65, "chinaGDP": 12.54, "indiaGrowth": 6.80, "chinaGrowth": 6.89, "indiaPPP": 8.11, "chinaPPP": 20.97 },
+        { "year": "2018", "indiaGDP": 2.70, "chinaGDP": 14.15, "indiaGrowth": 6.45, "chinaGrowth": 6.76, "indiaPPP": 8.97, "chinaPPP": 22.86 },
+        { "year": "2019", "indiaGDP": 2.84, "chinaGDP": 14.56, "indiaGrowth": 3.87, "chinaGrowth": 6.07, "indiaPPP": 9.65, "chinaPPP": 24.78 },
+        { "year": "2020", "indiaGDP": 2.67, "chinaGDP": 15.00, "indiaGrowth": -5.78, "chinaGrowth": 2.34, "indiaPPP": 9.49, "chinaPPP": 25.78 },
+        { "year": "2021", "indiaGDP": 3.17, "chinaGDP": 18.20, "indiaGrowth": 9.69, "chinaGrowth": 8.57, "indiaPPP": 11.06, "chinaPPP": 29.44 },
+        { "year": "2022", "indiaGDP": 3.25, "chinaGDP": 18.32, "indiaGrowth": 7.61, "chinaGrowth": 3.13, "indiaPPP": 12.74, "chinaPPP": 32.52 },
+        { "year": "2023", "indiaGDP": 3.50, "chinaGDP": 18.27, "indiaGrowth": 7.21, "chinaGrowth": 5.42, "indiaPPP": 14.17, "chinaPPP": 35.55 },
+        { "year": "2024", "indiaGDP": 3.76, "chinaGDP": 18.73, "indiaGrowth": 7.10, "chinaGrowth": 4.96, "indiaPPP": 15.55, "chinaPPP": 38.24 },
+        { "year": "2025P", "indiaGDP": 4.10, "chinaGDP": 20.80, "indiaGrowth": 7.57, "chinaGrowth": 4.96, "indiaPPP": 17.20, "chinaPPP": 41.26 }
+      ]
+    },
+    "defenseAndMilitaryBudgets": {
+      "sectionTitle": "2. Defense & Military Budgets and Force Manpower",
+      "sourceCitation": "SOURCE: SIPRI MILITARY EXPENDITURE DATABASE 2024/2025 & IISS",
+      "budgetMultiplier": "3.6x",
+      "budgetMultiplierLabel": "3.6x Budget Multiplier in China's Favor ($314B vs. $86.1B)",
+      "india": {
+        "annualBudget": "$86.1 Billion",
+        "budgetNumericBillions": 86.1,
+        "gdpShare": "2.27% of GDP",
+        "govtSpendShare": "7.6% of Govt Expenditure",
+        "worldRank": "#5 Globally",
+        "decadeRealGrowth": "+42% (2015–2024)",
+        "perCapitaSpend": "$58.83",
+        "activeTroops": "1.43M",
+        "activeTroopsExact": "1,431,000 (#2 World)",
+        "reserveTroops": "1,000,000 (#8 World)",
+        "paramilitaryForces": "2,527,000 (#2 World)",
+        "fiscalNote": "Pensions consume ~24% of domestic MoD budget (FY25-26), holding capital outlay to ~28%."
+      },
+      "china": {
+        "annualBudget": "$314.0 Billion",
+        "budgetNumericBillions": 314.0,
+        "gdpShare": "1.71% of GDP",
+        "govtSpendShare": "5.1% of Govt Expenditure",
+        "worldRank": "#2 Globally",
+        "decadeRealGrowth": "+59% (2015–2024)",
+        "perCapitaSpend": "$223.00",
+        "activeTroops": "2.03M",
+        "activeTroopsExact": "2,035,000 (#1 World)",
+        "reserveTroops": "510,000 (#17 World)",
+        "paramilitaryForces": "625,000 (#4 World)",
+        "fiscalNote": "Accounts for 50% of all Asian military spending; rose further to ~$336B in 2025 estimates."
+      }
+    },
+    "strategicHardwareAndDeterrence": {
+      "sectionTitle": "3. Strategic Hardware & Nuclear Deterrence",
+      "sourceCitation": "SOURCE: SIPRI YEARBOOK 2025/2026, FAS & MILITARYDEX 2026",
+      "chartMetrics": [
+        {
+          "category": "Nuclear Warheads",
+          "india": 190,
+          "china": 620,
+          "indiaNormalized": 30.6,
+          "chinaNormalized": 100.0,
+          "multiplier": "3.3x China",
+          "unit": "warheads",
+          "indiaDetail": "~190 warheads; maturing triad (SSBN patrols, Agni-V MIRV & canisterisation)",
+          "chinaDetail": "~620 warheads (+100/yr); DF-31B/DF-61 ICBMs & Type 094 JL-3 SLBMs",
+          "source": "SOURCE: SIPRI YEARBOOK 2026 / FAS"
+        },
+        {
+          "category": "Naval Vessels (Total)",
+          "india": 218,
+          "china": 403,
+          "indiaNormalized": 54.1,
+          "chinaNormalized": 100.0,
+          "multiplier": "1.8x China",
+          "unit": "vessels",
+          "indiaDetail": "218 vessels (2 Carriers, 13 Destroyers, 18 Frigates, 21 Corvettes, 18 Submarines)",
+          "chinaDetail": "403 vessels (3 Carriers, 53 Destroyers, 46 Frigates, 50 Corvettes, 61 Submarines)",
+          "source": "SOURCE: IISS / MILITARYDEX 2026"
+        },
+        {
+          "category": "Aircraft Carriers",
+          "india": 2,
+          "china": 3,
+          "indiaNormalized": 66.7,
+          "chinaNormalized": 100.0,
+          "multiplier": "1.5x China",
+          "unit": "carriers",
+          "indiaDetail": "2 operational carriers (INS Vikramaditya & indigenous INS Vikrant)",
+          "chinaDetail": "3 carriers (Liaoning, Shandong & CATOBAR-equipped Fujian)",
+          "source": "SOURCE: IISS / MILITARYDEX 2026"
+        },
+        {
+          "category": "Military Aircraft (Total)",
+          "india": 2183,
+          "china": 3529,
+          "indiaNormalized": 61.9,
+          "chinaNormalized": 100.0,
+          "multiplier": "1.6x China",
+          "unit": "aircraft",
+          "indiaDetail": "~2,183 total (476 Fighters, 124 Attack, 989 Support/Transport, 594 Helicopters)",
+          "chinaDetail": "~3,529 total (1,443 Fighters incl. 300 J-20 Stealth, 371 Attack, 1,007 Helicopters)",
+          "source": "SOURCE: IISS / MILITARYDEX 2026"
+        },
+        {
+          "category": "Fighter & Interceptor Jets",
+          "india": 476,
+          "china": 1443,
+          "indiaNormalized": 33.0,
+          "chinaNormalized": 100.0,
+          "multiplier": "3.0x China",
+          "unit": "fighters",
+          "indiaDetail": "476 fighters (258 Su-30MKI, Rafale, 59 MiG-29, 46 Mirage 2000)",
+          "chinaDetail": "1,443 fighters (608 J-10, 350 J-16, 300 J-20 5th-Gen Stealth, 295 J-11)",
+          "source": "SOURCE: MILITARYDEX 2026"
+        }
+      ]
+    },
+    "diplomacyTradeAndIntelligence": {
+      "sectionTitle": "4. Diplomacy, Trade Deals & Intelligence Influence (R&AW vs. MSS)",
+      "sourceCitation": "SOURCE: MEA INDIA, MINISTRY OF COMMERCE, PTI, GREENFDC & OPEN-SOURCE INT",
+      "dataConstraintNotice": "DATA CONSTRAINT: Exact budgets and personnel counts for external intelligence agencies—India's Research and Analysis Wing (R&AW) and China's Ministry of State Security (MSS)—are classified state secrets. Capabilities are evaluated below via strategic trade posture, diplomatic milestones, and institutional mandates.",
+      "indiaHighlights": {
+        "agencyName": "R&AW (Research & Analysis Wing)",
+        "agencyFounded": "Est. 1968 • Reports directly to Prime Minister's Office (PMO) & Cabinet Secretariat",
+        "technicalWings": "Aviation Research Centre (ARC), Electronics & Technical Services (ETS), Radio Research Center (RRC)",
+        "strategicChecklist": [
+          {
+            "tag": "TRADE PROTECTION (NOV 2019)",
+            "title": "Exited RCEP Mega-Pact in Bangkok",
+            "description": "Withdrew from the 16-nation Regional Comprehensive Economic Partnership in November 2019 to safeguard domestic manufacturing, MSMEs, and dairy/agriculture from asymmetrical Chinese import surges.",
+            "source": "SOURCE: PIB / MINISTRY OF COMMERCE"
+          },
+          {
+            "tag": "BILATERAL FTAs (2022–2025)",
+            "title": "Pivoted to Targeted Bilateral Trade Deals (UAE & Australia)",
+            "description": "Implemented the India-UAE CEPA and Australia-India ECTA in 2022 (pushing two-way Australia trade to A$48.9B–$54.4B), alongside Press Note 3 screening on land-border FDI.",
+            "source": "SOURCE: COMMERCE MINISTRY / DFAT"
+          },
+          {
+            "tag": "REGIONAL DOCTRINE",
+            "title": "Pushed 'Neighborhood First' & 'Act East' Policies",
+            "description": "Anchored Bay of Bengal connectivity via the 6th BIMSTEC Summit (2025), chaired IORA (2025–2027), and expanded the NSA-level Colombo Security Conclave across the Indian Ocean Region.",
+            "source": "SOURCE: MEA INDIA / PTI"
+          },
+          {
+            "tag": "GLOBAL FOOTPRINT",
+            "title": "Elevated Status via QUAD, G20 Presidency & UNSC Advocacy",
+            "description": "Deepened Indo-Pacific maritime domain awareness (MAITRI) and semiconductor resilience via the QUAD, led Global South initiatives at the 2023 G20, and pressed for a permanent UNSC seat via G4.",
+            "source": "SOURCE: MEA INDIA / UNGA"
+          },
+          {
+            "tag": "CLANDESTINE POSTURE (R&AW)",
+            "title": "LAC Reconnaissance & Regional Counter-Terrorism Focus",
+            "description": "Leverages ARC aerial/satellite reconnaissance along the 3,400 km Line of Actual Control (LAC), SIGINT/ELINT monitoring in the Indian Ocean, and counter-intelligence against regional terror networks.",
+            "source": "SOURCE: OPEN-SOURCE STRATEGIC ASSESSMENTS"
+          }
+        ]
+      },
+      "chinaHighlights": {
+        "agencyName": "MSS (Ministry of State Security)",
+        "agencyFounded": "Est. 1983 • State Council & CCP Central Committee Political-Legal Commission",
+        "technicalWings": "Foreign & Domestic Bureaus, Cyber/AI Espionage Units & CICIR Analytical Institute",
+        "strategicChecklist": [
+          {
+            "tag": "INFRASTRUCTURE STATECRAFT",
+            "title": "Expanded Belt & Road Initiative (BRI) to $1.399 Trillion",
+            "description": "Signed MoUs with ~150 nations; recorded an all-time high $213.6B BRI engagement in 2025 ($128.4B construction, $85.2B investment), with Pakistan as the #1 cumulative energy recipient ($41.5B).",
+            "source": "SOURCE: GREENFDC BRI REPORT 2025"
+          },
+          {
+            "tag": "MIDDLE EAST MEDIATION",
+            "title": "Brokered High-Profile Middle East Diplomatic Accords",
+            "description": "Mediated the historic March 2023 Saudi Arabia–Iran normalization pact in Beijing (ending a 7-year rift) and facilitated the July 2024 Beijing Declaration among Palestinian factions.",
+            "source": "SOURCE: FMPRC / DIPLOMATIC ARCHIVES"
+          },
+          {
+            "tag": "SUPPLY-CHAIN DOMINANCE",
+            "title": "Leveraged Upstream Manufacturing & Trade Asymmetry",
+            "description": "Remains India's largest source of industrial imports ($131.6B in FY25-26, generating a $99.2B–$112.6B deficit), supplying 43% of India's electronics, 40% of machinery/computers, and 44% of organic chemicals.",
+            "source": "SOURCE: PTI / GTRI / COMMERCE DATA"
+          },
+          {
+            "tag": "PARALLEL FINANCIAL ORDER",
+            "title": "Institutionalized Alternative Multilateral Lending",
+            "description": "Expanded sovereign lending, RMB trade settlement, and infrastructure financing through the Asian Infrastructure Investment Bank (AIIB) and the Shanghai-headquartered New Development Bank (NDB).",
+            "source": "SOURCE: AIIB / NDB REPORTS"
+          },
+          {
+            "tag": "CLANDESTINE POSTURE (MSS)",
+            "title": "Global Cyber-Industrial Espionage & C3I Surveillance",
+            "description": "Combines internal political security with global HUMINT, AI-driven mass data harvesting, defense/semiconductor IP acquisition, and surveillance of Indian nuclear C3I and Indo-US convergence.",
+            "source": "SOURCE: OPEN-SOURCE STRATEGIC ASSESSMENTS"
+          }
+        ]
+      }
+    }
+  }
+}
